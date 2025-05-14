@@ -80,4 +80,11 @@ GitHub repo initialized for DKD ecosystem vision.
 ## Contribution
 
 If you are a developer, farmer, gau sevak, or social reformer — you're welcome to contribute ideas, code, or support.
+---
+
+### © DKD - Deep Krishi Development | Shraddha Singh
+
+This project and its concept are the original intellectual property of Shraddha Singh.  
+Cloning or forking this repository is allowed only for learning or contribution purposes.  
+**Any unauthorized use of this concept for commercial or academic presentation without credit is strictly prohibited.**
 
