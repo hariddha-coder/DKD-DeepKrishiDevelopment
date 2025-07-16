@@ -50,17 +50,7 @@ To build a platform where:
 ---
 
 ## Tech Stack (To Be Decided)
-
-*Branch and technologies will be confirmed post-counseling.*
-
-> Shraddha will update tech tools after branch allocation. Initial ideas may include:
-- Frontend: HTML/CSS/JS or React
-- Backend: Python Flask/Django or Node.js
-- Database: Firebase / SQLite
-- Mobile App: Android (future)
-- Hosting: GitHub Pages / Netlify
-
----
+> Shraddha will update tech tools after ready the application 
 
 ## Created By
 
