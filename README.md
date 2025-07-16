@@ -45,6 +45,7 @@ To build a platform where:
 - Farmer Training Resources
 - Milk and Gobar Tracking
 - Crop Growth Monitoring Dashboard
+- AI feature will available in application to resolve all doubts and quaries of customers
 
 ---
 
